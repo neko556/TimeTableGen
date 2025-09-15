@@ -1,0 +1,5 @@
+target_type,target_id,rule_type,value
+professor,prof_ada,dislikes_timeslot,Mon_9AM
+professor,prof_ada,dislikes_timeslot,Tue_9AM
+course,CS101,prefers_room,Room101
+professor,prof_turing,likes_timeslot,Fri_3PM

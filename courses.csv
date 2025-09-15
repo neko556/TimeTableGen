@@ -1,0 +1,26 @@
+course_code,name,credits,type
+CS101,Intro to Python,3,Theory
+CS101L,Intro to Python Lab,1,Lab
+PHY201,Modern Physics,3,Theory
+ED501,Teaching Practice I,6,Internship
+CS102,Data Structures,3,Theory
+CS102L,Data Structures Lab,1,Lab
+CS201,Algorithms,3,Theory
+CS201L,Algorithms Lab,1,Lab
+CS202,Database Systems,3,Theory
+CS202L,Database Systems Lab,1,Lab
+CS203,Operating Systems,3,Theory
+CS203L,Operating Systems Lab,1,Lab
+CS204,Computer Networks,3,Theory
+CS204L,Computer Networks Lab,1,Lab
+CS205,Software Engineering,3,Theory
+CS206,Artificial Intelligence,3,Theory
+CS206L,AI Lab,1,Lab
+CS207,Machine Learning,3,Theory
+CS207L,Machine Learning Lab,1,Lab
+MTH101,Calculus I,4,Theory
+MTH102,Linear Algebra,3,Theory
+MTH201,Probability and Statistics,3,Theory
+PHY101,Classical Mechanics,4,Theory
+ENG101,Academic Writing,2,Theory
+HSS201,Ethics and Values,2,Theory

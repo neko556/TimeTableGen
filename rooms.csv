@@ -1,0 +1,23 @@
+room_id,building_block,floor,capacity,type
+SC101,Science Wing,1,60,Lecture
+SC102,Science Wing,1,60,Lecture
+SC201,Science Wing,2,30,Lab
+AR305,Arts Block,3,40,Seminar
+SC103,Science Wing,1,60,Lecture
+SC202,Science Wing,2,30,Lab
+SC203,Science Wing,2,30,Lab
+SC301,Science Wing,3,100,Lecture
+SC302,Science Wing,3,80,Lecture
+CS101,Computer Block,1,50,Lecture
+CS102,Computer Block,1,50,Lecture
+CS201,Computer Block,2,35,Lab
+CS202,Computer Block,2,35,Lab
+CS203,Computer Block,2,35,Lab
+CS301,Computer Block,3,70,Lecture
+CS302,Computer Block,3,70,Lecture
+ME101,Mechanical Block,1,80,Lecture
+ME102,Mechanical Block,1,80,Lecture
+ME201,Mechanical Block,2,40,Lab
+ME202,Mechanical Block,2,40,Lab
+AR101,Arts Block,1,50,Lecture
+AR201,Arts Block,2,60,Lecture

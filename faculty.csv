@@ -1,0 +1,19 @@
+faculty_id,name,expertise,availability,max_load_credits
+prof_ada,Ada Lovelace,"CS101,CS101L","{'Friday':'unavailable'}",9
+prof_turing,Alan Turing,"CS101,PHY201","",12
+prof_yuri,Yuri Gagarin,"ED501","",2
+prof_knuth,Donald Knuth,"CS102,CS102L,CS201","{'Monday':'unavailable'}",12
+prof_dijkstra,Edsger Dijkstra,"CS201,CS201L,CS203","{'Wednesday':'unavailable'}",9
+prof_codd,Edgar Codd,"CS202,CS202L","",9
+prof_tanenbaum,Andrew Tanenbaum,"CS203,CS203L,CS204","{'Tuesday':'unavailable'}",12
+prof_kurose,James Kurose,"CS204,CS204L","",6
+prof_pressman,Roger Pressman,"CS205","",9
+prof_russell,Stuart Russell,"CS206,CS206L","{'Thursday':'unavailable'}",9
+prof_ng,Andrew Ng,"CS207,CS207L","",12
+prof_newton,Isaac Newton,"MTH101,PHY101","",12
+prof_euler,Leonhard Euler,"MTH102,MTH201","{'Monday':'unavailable'}",12
+prof_feynman,Richard Feynman,"PHY201,PHY101","",9
+prof_chomsky,Noam Chomsky,"ENG101,HSS201","{'Friday':'unavailable'}",6
+prof_gandhi,Mohandas Gandhi,"HSS201,ENG101","",6
+prof_jobs,Steve Jobs,"CS205,CS202","{'Tuesday':'unavailable'}",6
+prof_minsky,Marvin Minsky,"CS206,CS207","",9
